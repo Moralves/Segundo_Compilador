@@ -1,0 +1,9 @@
+[start]
+[var] [id][Nu] [:] [Nu] [;]
+[var] [id] [:] [id] [;]
+
+[if] [(] [id][Nu] [Or] [Nu] [)] [OL] [OL] [(] [id] [Or] [id] [)] [then]
+    [write] [(] [id][Nu] [Om] [Nu] [)] [;]
+[end]
+[read] [(] [id] [)] [Om] [Nu] [Om] [Nu] [Om] [Nu] 
+[OL] [OL]

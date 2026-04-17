@@ -1,0 +1,9 @@
+start
+var variavel1 : 10 ;
+var texto : string ;
+
+if ( variavel1 > 5 ) AND NOT ( texto = oi ) then
+    write ( variavel1 * 2 ) ;
+end
+read ( texto ) + 5 / 2 - 1 
+OR AND
