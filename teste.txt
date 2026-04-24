@@ -1,9 +1,11 @@
 start
-var variavel1 : 10 ;
-var texto : string ;
-
-if ( variavel1 > 5 ) AND NOT ( texto = oi ) then
-    write ( variavel1 * 2 ) ;
+var contador1 : 10 ;
+var nome_usuario : Pedro ;
+&$
+1.5
+if ( contador1 > 5 ) AND NOT ( nome_usuario = Pedro ) then
+    write("Pedro Moreira e Luiz Gustavo") ;
+    read ( contador1 ) + 5 / 2 - 1 ; $$
+    contador1 = contador1 * 2
 end
-read ( texto ) + 5 / 2 - 1 
-OR AND
+OR AND NOT % % % %   $$
